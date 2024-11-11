@@ -64,10 +64,3 @@ Bloodlink ensures a secure, user-friendly experience with robust eligibility che
 - **Real-time Data Sync:** Firestore Database
 - **Push Notifications:** Firebase Cloud Messaging
 
-## Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/Bloodlink.git
-   cd Bloodlink
-   ```
